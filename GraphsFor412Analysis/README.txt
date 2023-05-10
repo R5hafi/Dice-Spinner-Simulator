@@ -1,0 +1,1 @@
+One minor change was made to the data for the question "How often do you find yourself using ChatGPT?". This change was done because there is the response "Dont really it" instead of "Don't really use it" due to a typo, so the former will be tallied with the latter.
