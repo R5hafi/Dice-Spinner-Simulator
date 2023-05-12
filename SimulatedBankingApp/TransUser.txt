@@ -1,0 +1,12 @@
+19/01/2022   !   09:20   !    withdraw!   $200.00 !   chequing
+18/01/2022   !   17:34   !    deposit  !   $40.00   !   chequing
+18/01/2022   !   11:50   !    deposit  !   $100.00  !   savings
+16/01/2022   !   20:55   !    charge   !   $19.99   !   chequing
+15/01/2022   !   11:15   !    withdraw!   $60.00   !   chequing
+12/01/2022   !   18:30   !    charge   !   $44.95   !   chequing
+12/01/2022   !   16:25   !    charge   !   $65.00   !   chequing
+12/01/2022   !   17:25   !    charge   !   $12.00   !   chequing
+09/01/2022   !   12:34   !    deposit  !   $400.00  !   savings
+04/01/2022   !   22:23   !    withdraw!   $100.00 !   chequing
+01/01/2022   !   04:53   !    charge   !   $19.99   !   chequing
+29/12/2021   !   23:12   !    charge   !   $45.23   !   chequing

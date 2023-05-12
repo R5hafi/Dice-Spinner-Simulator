@@ -1,0 +1,12 @@
+24/12/2021   !   15:45   !    withdraw  !  $200.00 !   chequing
+23/12/2021   !  14:45   !    deposit   !  $100.00  !   savings
+23/12/2021   !   12:24   !    deposit    !  $40.00   !   chequing
+23/12/2021   !   04:53   !    charge     !  $19.99   !   chequing
+22/12/2021   !   03:13   !    withdraw  !  $60.00   !   chequing
+20/12/2021   !   16:42   !    deposit   !  $44.95    !   savings
+17/12/2021   !   23:23   !    charge     !  $12.00   !   chequing
+16/12/2021   !   13:45   !    charge     !  $65.00   !   chequing
+15/12/2021   !   19:35   !    deposit   !  $400.00  !   savings
+11/12/2021   !   23:26   !    withdraw  !  $100.00 !   chequing
+09/12/2021   !   02:43   !    charge     !  $19.99   !   chequing
+08/12/2021   !   14:14   !    withdraw  !  $45.23   !   chequing

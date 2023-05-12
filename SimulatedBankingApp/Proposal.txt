@@ -1,0 +1,59 @@
+Online bank management system idea from
+https://www.codewithc.com/online-bank-management-system-project-java/
+
+Check List
+The program itself:
+
+• Must contain at least 2 different classes, in addition to Main. 
+
+• Use ArrayList and use an Arraylist of objects or a HashMap.
+
+• Must involve file IO.
+
+• Needs some type of searching and sorting
+
+• Must not crash (generally) :)
+
+BrainStorming:
+Classes - Multiple accounts(checking/savings)
+Array - Transaction List
+Import/Print File - Print Transaction List
+Method - Withdraw/Deposit
+Searching/sorting - Searching Transaction List
+Loops - Will be used in methods and searching and sorting algorithms
+Objects 
+ArrayList
+HashMap - 
+If statements - (Used in multiple systems)
+2D Array 
+Switch Statement
+Recursion
+
+The Program Will:
+
+Allow the user to open Multiple accounts
+Allow the user to etransfer and deposit on multiple accounts
+Allow the user to view a Transaction History list 
+Allow the user to search and sort for transactions based on amount
+Allow the user to view account information (e.g.) Name, Birthday, Address, Security Number
+...
+
+Steps: 
+1.) Make a login portal where username and password are connected to data, look up a GUI tutorial for this.
+2.) Display account info which should consist of balance, transactions, deposits, etc. This can be done through using a data file to write to the screen.
+3.) After all info is set, make a button or something else that leads to the option of making a eTransfer or deposit. 
+4.) Using a searching algorithm give user option to look for transaction by amount.
+5.) In another data file contain basic account info like name, bday, address, security number, etc.
+
+References below:
+https://www.codewithc.com/online-bank-management-system-project-java/
+https://replit.com/talk/learn/Java-Swing-Tutorial-Day-1-LEARN-HOW-TO-CREATE-A-GUI/46008
+https://replit.com/talk/learn/Java-Swing-Tutorial-Day-2-LEARN-HOW-TO-MAKE-A-GUI/46109
+https://replit.com/talk/learn/HOW-TO-MAKE-A-GUI-DAY-3-or-JAVA-SWING-or-CROSS-PLATFORM/46985
+https://www.youtube.com/watch?v=iE8tZ0hn2Ws&list=WL&index=50&t=181s&ab_channel=AlexLee
+https://www.youtube.com/watch?v=HgkBvwgciB4&ab_channel=BroCode
+http://www.java2s.com/Tutorial/Java/0240__Swing/CreatingaMultilineLabelforaJButtonComponent.htm
+https://examples.javacodegeeks.com/desktop-java/swing/jtextfield/create-read-only-non-editable-jtextfield/
+https://www.geeksforgeeks.org/merge-sort/ 
+//https://wisdomoverflow.com/2018/11/01/sorting-the-date-in-ascending-order-in-java/ 
+https://www.withexample.com/merge-sort-using-arraylist-java-example/
