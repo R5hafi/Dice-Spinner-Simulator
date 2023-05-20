@@ -1,3 +1,5 @@
+This is my highschool final culminating project which was open-ended, it is from Dec 2021.
+
 There are no known bugs, everything works as intended except that eTransfer and deposit were not coded to add a transaction in transactions history or send money between the two dummy accounts. Otherwise, everything else works and the balance still updates in account details when the user deposits or etransfers.
 
 Most of the classes were designed with runnable code put in the constructor so that when an instantiation of that object occurs a new window pops up, if needed otherwise a void method was put for those classes that need to transfer data to other classes (like for the LoginPage class where username and password need to be transferred, a LoginProcess void method was made).
