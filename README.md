@@ -1,1 +1,2 @@
-# Dice & Spinner Game for high school data management course project
+# Dice & Spinner Game 
+High school data management course project
